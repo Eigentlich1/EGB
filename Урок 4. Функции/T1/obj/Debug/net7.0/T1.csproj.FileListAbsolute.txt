@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\bin\Debug\net7.0\T1.exe
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\bin\Debug\net7.0\T1.deps.json
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\bin\Debug\net7.0\T1.runtimeconfig.json
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\bin\Debug\net7.0\T1.dll
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\bin\Debug\net7.0\T1.pdb
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.AssemblyInfo.cs
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.dll
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\refint\T1.dll
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.pdb
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\T1.genruntimeconfig.cache
+C:\Users\user\OneDrive\Документы\Урок 4. Функции\T1\obj\Debug\net7.0\ref\T1.dll
